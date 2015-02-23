@@ -3,8 +3,8 @@
 2. Comprehensible development - readable and understandible (clean code/refactoring)
 3. Predictable - unexpected inputs and response to those inputs (Exception handler)
 
-Clean Code
-- tell good code vs. bad code (code smell)
+Clean Code 
+- tell good code vs. bad code (code smell))
 - refactoring (rewriting bad code to good code)
 -- seperate code into seperate classes (without impacting other stuff)
 
