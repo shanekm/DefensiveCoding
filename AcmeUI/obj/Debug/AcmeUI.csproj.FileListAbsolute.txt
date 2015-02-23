@@ -1,0 +1,3 @@
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\DefensiveCoding\AcmeUI\bin\Debug\AcmeUI.exe.config
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\DefensiveCoding\AcmeUI\obj\Debug\AcmeUI.exe
+C:\Users\Shane.Kmiecik\Documents\Visual Studio 2013\Projects\DefensiveCoding\AcmeUI\obj\Debug\AcmeUI.pdb

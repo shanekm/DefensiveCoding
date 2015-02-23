@@ -1,0 +1,4 @@
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\DefensiveCoding\Acme.Common\bin\Debug\Acme.Common.dll
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\DefensiveCoding\Acme.Common\bin\Debug\Acme.Common.pdb
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\DefensiveCoding\Acme.Common\obj\Debug\Acme.Common.dll
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\DefensiveCoding\Acme.Common\obj\Debug\Acme.Common.pdb

@@ -1,0 +1,7 @@
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\DefensiveCoding\AcmeBL\bin\Debug\AcmeBL.dll
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\DefensiveCoding\AcmeBL\bin\Debug\AcmeBL.pdb
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\DefensiveCoding\AcmeBL\obj\Debug\AcmeBL.dll
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\DefensiveCoding\AcmeBL\obj\Debug\AcmeBL.pdb
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\DefensiveCoding\AcmeBL\bin\Debug\Acme.Common.dll
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\DefensiveCoding\AcmeBL\bin\Debug\Acme.Common.pdb
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\DefensiveCoding\AcmeBL\obj\Debug\AcmeBL.csprojResolveAssemblyReference.cache

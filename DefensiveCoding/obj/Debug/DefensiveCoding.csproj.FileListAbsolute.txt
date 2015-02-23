@@ -1,0 +1,6 @@
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\DefensiveCoding\DefensiveCoding\bin\Debug\DefensiveCoding.exe.config
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\DefensiveCoding\DefensiveCoding\bin\Debug\DefensiveCoding.exe
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\DefensiveCoding\DefensiveCoding\bin\Debug\DefensiveCoding.pdb
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\DefensiveCoding\DefensiveCoding\obj\Debug\DefensiveCoding.csprojResolveAssemblyReference.cache
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\DefensiveCoding\DefensiveCoding\obj\Debug\DefensiveCoding.exe
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\DefensiveCoding\DefensiveCoding\obj\Debug\DefensiveCoding.pdb

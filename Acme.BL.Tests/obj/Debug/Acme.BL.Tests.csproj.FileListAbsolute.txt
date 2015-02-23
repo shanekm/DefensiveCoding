@@ -1,0 +1,9 @@
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\DefensiveCoding\Acme.BL.Tests\bin\Debug\Acme.BL.Tests.dll
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\DefensiveCoding\Acme.BL.Tests\bin\Debug\Acme.BL.Tests.pdb
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\DefensiveCoding\Acme.BL.Tests\bin\Debug\AcmeBL.dll
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\DefensiveCoding\Acme.BL.Tests\bin\Debug\Acme.Common.dll
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\DefensiveCoding\Acme.BL.Tests\bin\Debug\AcmeBL.pdb
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\DefensiveCoding\Acme.BL.Tests\bin\Debug\Acme.Common.pdb
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\DefensiveCoding\Acme.BL.Tests\obj\Debug\Acme.BL.Tests.csprojResolveAssemblyReference.cache
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\DefensiveCoding\Acme.BL.Tests\obj\Debug\Acme.BL.Tests.dll
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\DefensiveCoding\Acme.BL.Tests\obj\Debug\Acme.BL.Tests.pdb
